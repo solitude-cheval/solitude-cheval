@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 This is Solitude Cheval
+
+- 🔭 I’m currently working on Machine Learning, Computer Vison, DIP, DSP etc.
+- ⚙  Programming: Python, Verilog, Matlab, VHDL, C++. 
+- ⚙  Tools/Framework: Visual Studio Code, QUALTUS II, Multisim, Modelsim, Numpy, PyTorch.
+- 🐟 My hobby is taking care of tropical fish/aquariums.
+
+
 
 <!--
 **solitude-cheval/solitude-cheval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
